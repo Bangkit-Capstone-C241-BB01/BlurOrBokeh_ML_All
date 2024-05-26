@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1RGJoxtWvnND563kQw57r1kUIIQe5HLzu
 3. Hand Designed Approach
 4. End-to-End Deep Learning Approach
 5. Transfer Learning Approach (best accuracy 86%)
-6. Transfer Learning + Deep Learning Approach (best accuracy 90%) ✴️
+6. Transfer Learning + Variance Approach (best accuracy 90%) ✴️
 7. FFT + Transfer Learning Approach (best accuracy 80%)
 
 ### Performance Exploration (Trial and Error)
