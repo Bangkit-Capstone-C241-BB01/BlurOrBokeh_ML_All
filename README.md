@@ -10,7 +10,7 @@ The complete summary of each model performance is available at [Model Performanc
 
 | Notebook Filename | Description | Best Accuracy (%) |
 |-----------------|-----------------|-----------------|
-| [Transfer Learning with InceptionV3](https://github.com/Bangkit-Capstone-C241-BB01/BlurOrBokeh_ML_All/blob/main/TL_with_InceptionV3.ipynb) | Use InceptionV3 (all layers) pre-trained model with fine-tuning | 95.61 ✴️ |
+| [TL with InceptionV3](https://github.com/Bangkit-Capstone-C241-BB01/BlurOrBokeh_ML_All/blob/main/TL_with_InceptionV3.ipynb) | Use InceptionV3 (all layers) pre-trained model with fine-tuning | 95.61 ✴️ |
 | [Plain Deep Learning Approach](https://github.com/Bangkit-Capstone-C241-BB01/BlurOrBokeh_ML_All/blob/main/Plain_Deep_Learning_Approach.ipynb) | Only plain deep learning or basic CNN | 77.08 |
 | [Hand Designed Approach](https://github.com/Bangkit-Capstone-C241-BB01/BlurOrBokeh_ML_All/blob/main/Hand_Designed_Approach.ipynb) | Manually find threshold that seperate each class, however, this idea was dropped due to its unfavorable spread on scatter plot | Unknown |
 | [End-to-End Deep Learning Approach](https://github.com/Bangkit-Capstone-C241-BB01/BlurOrBokeh_ML_All/blob/main/End_to_End_Deep_Learning_Approach.ipynb) | Embed object detection model to main model and train on this big model | 65.79 |
